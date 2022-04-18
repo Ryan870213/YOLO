@@ -1,0 +1,10 @@
+
+classes= 6
+
+train  = /content/drive/MyDrive/data3_pest/cfg/train.txt
+
+valid  = /content/drive/MyDrive/data3_pest/cfg/val.txt
+
+names = /content/drive/MyDrive/data3_pest/cfg/obj.names
+
+backup = /content/drive/MyDrive/data3_pest/weights
